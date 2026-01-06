@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b443aedcffbbade43850429b8cb36828
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameCam: {instanceID: 0}
+  - shopCam: {instanceID: 0}
+  - gc: {fileID: 8079307962002074786, guid: d68f5c3bd0e93f8498688b88cd8a1929, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
