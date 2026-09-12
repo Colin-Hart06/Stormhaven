@@ -1,5 +1,5 @@
 # Stormhaven
-A physics-based rogue-like where you shelter humans from extreme weather events.
+A physics-based rogue-like where you buy upgrades and create shelter to protect humans from extreme weather events.
 
 Made in 1 week for the ISU Winter 2025 Game Jam. Placed 1st out of 9 submissions.
 
